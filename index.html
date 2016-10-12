@@ -1,0 +1,29 @@
+﻿<html lang="en" ng-app="teamApp">
+<head>
+    <meta charset="utf-8">
+    <title>Football Teams</title>
+
+    <script src="Scripts/angular.js"></script>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <script src="Scripts/angular-resource.js"></script>
+    <script src="Scripts/angular-route.js"></script>
+    <script src="Scripts/jquery-1.9.1.js"></script>
+
+    <script src="app.module.js"></script>
+    <script src="app.config.js"></script>
+    <script src="core/team/team.module.js"></script>
+    <script src="core/core.module.js"></script>
+    <script src="core/team/team.service.js"></script>
+    <script src="team-list/team-list.module.js"></script>
+    <script src="team-list/team-list.component.js"></script>
+    <script src="team-detail/team-detail.module.js"></script>
+    <script src="team-detail/team-detail.component.js"></script>
+</head>
+<body>
+
+    <div class="view-container">
+        <div ng-view class="view-frame"></div>
+    </div>
+
+</body>
+</html>

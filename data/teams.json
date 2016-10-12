@@ -1,0 +1,104 @@
+{
+	"teams": {
+		"competition": "National League",
+		"description": "List of teams",
+		"team": [
+			{
+				"id": "94",
+				"name": "Aldershot Town"
+			},
+			{
+				"id": "118",
+				"name": "Barrow"
+			},
+			{
+				"id": "187",
+				"name": "Boreham Wood"
+			},
+			{
+				"id": "226",
+				"name": "Braintree Town"
+			},
+			{
+				"id": "251",
+				"name": "Bromley"
+			},
+			{
+				"id": "1004",
+				"name": "Chester"
+			},
+			{
+				"id": "100",
+				"name": "Dagenham & Redbridge"
+			},
+			{
+				"id": "229",
+				"name": "Dover Athletic"
+			},
+			{
+				"id": "230",
+				"name": "Eastleigh"
+			},
+			{
+				"id": "103",
+				"name": "Forest Green Rovers"
+			},
+			{
+				"id": "292",
+				"name": "Gateshead"
+			},
+			{
+				"id": "293",
+				"name": "Guiseley"
+			},
+			{
+				"id": "79",
+				"name": "Lincoln City"
+			},
+			{
+				"id": "80",
+				"name": "Macclesfield Town"
+			},
+			{
+				"id": "403",
+				"name": "Maidstone United"
+			},
+			{
+				"id": "319",
+				"name": "North Ferriby United"
+			},
+			{
+				"id": "569",
+				"name": "Solihull Moors"
+			},
+			{
+				"id": "131",
+				"name": "Southport"
+			},
+			{
+				"id": "154",
+				"name": "Sutton United"
+			},
+			{
+				"id": "65",
+				"name": "Torquay United"
+			},
+			{
+				"id": "66",
+				"name": "Tranmere Rovers"
+			},
+			{
+				"id": "113",
+				"name": "Woking"
+			},
+			{
+				"id": "68",
+				"name": "Wrexham"
+			},
+			{
+				"id": "114",
+				"name": "York City"
+			}
+		]
+	}
+}
