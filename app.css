@@ -23,3 +23,26 @@
   content: "|";
   padding-right: 0.3em;
 }
+
+.table{
+    background-color:midnightblue;
+    color:white;
+}
+
+.table-header{
+    color:yellow;
+}
+
+.table-football{
+width:80%;
+margin-left:10%;
+}
+
+.form-football{
+    background-color:lightsteelblue;
+}
+
+.h1-football{
+    margin-left:10%;
+    color:darkblue;
+}

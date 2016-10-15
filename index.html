@@ -3,12 +3,13 @@
     <meta charset="utf-8">
     <title>Football Teams</title>
 
-    <script src="Scripts/angular.js"></script>
     <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link href="app.css" rel="stylesheet" />
+    <script src="Scripts/angular.js"></script>
     <script src="Scripts/angular-resource.js"></script>
     <script src="Scripts/angular-route.js"></script>
     <script src="Scripts/jquery-1.9.1.js"></script>
-
+    <script src="Scripts/bootstrap.js"></script>
     <script src="app.module.js"></script>
     <script src="app.config.js"></script>
     <script src="core/team/team.module.js"></script>
@@ -18,8 +19,9 @@
     <script src="team-list/team-list.component.js"></script>
     <script src="team-detail/team-detail.module.js"></script>
     <script src="team-detail/team-detail.component.js"></script>
+    <script src="team-detail/team-detail.filter.js"></script>
 </head>
-<body>
+<body class="form-football">
 
     <div class="view-container">
         <div ng-view class="view-frame"></div>
