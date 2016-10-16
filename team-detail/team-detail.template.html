@@ -1,19 +1,29 @@
 ﻿<h1 class="h1 h1-football">{{$ctrl.results.matchesTeam.team}}</h1>
-<table class="table table-inverse table-condensed table-bordered text-left table-football">
-    <thead class="table-header text-left">
-        <tr>
-            <th>Date</th>
-            <th>K.O.</th>
-            <th>Competition</th>
-            <th></th>
-            <th>Attendance</th>
-        </tr>
-    </thead>
-    <tr ng-repeat="mtch in $ctrl.results.matchesTeam.match">
-        <td>{{mtch.date|reduceDate}}</td>
-        <td>{{mtch.time|reduceTime}}</td>
-        <td>{{mtch.competition|reduceComp}}</td>
-        <td>{{mtch.score}}</td>
-        <td>{{mtch.attendance}}</td>
-    </tr>
-</table>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-1">
+            <a class="glyphicon glyphicon-home football-menu" href="#/teams"></a>
+            Search: <input ng-model="$ctrl.query" />
+        </div>
+        <div class="col-md-11">
+            <table class="table table-inverse table-condensed table-bordered text-left table-football">
+                <thead class="table-header text-left">
+                    <tr>
+                        <th>Date</th>
+                        <th>K.O.</th>
+                        <th>Competition</th>
+                        <th></th>
+                        <th>Attendance</th>
+                    </tr>
+                </thead>
+                <tr ng-repeat="mtch in $ctrl.results.matchesTeam.match| filter:$ctrl.query">
+                    <td>{{mtch.date|reduceDate}}</td>
+                    <td>{{mtch.time|reduceTime}}</td>
+                    <td>{{mtch.competition|reduceComp}}</td>
+                    <td>{{mtch.score}}</td>
+                    <td>{{mtch.attendance}}</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>

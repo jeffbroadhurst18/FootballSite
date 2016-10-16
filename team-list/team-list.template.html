@@ -1,7 +1,45 @@
-﻿<ol>
+﻿<!--<ol>
     <li ng-repeat="teamrec in $ctrl.teams">
         <a href="#!/teams/{{teamrec.number}}">
             {{teamrec.name}}
         </a>
-</li>
-</ol>
+    </li>
+</ol>-->
+<h1 class="h1 h1-football">{{$ctrl.competition}}</h1>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-1">
+            <a class="glyphicon glyphicon-home" href="#/teams"></a>
+        </div>
+        <div class="col-md-11">
+            <table class="table table-inverse table-condensed table-bordered text-left table-football">
+                <thead class="table-header text-left">
+                    <tr>
+                        <th></th>
+                        <th></th>
+                        <th>P</th>
+                        <th>W</th>
+                        <th>D</th>
+                        <th>L</th>
+                        <th>F</th>
+                        <th>A</th>
+                        <th>GD</th>
+                        <th>Pts</th>
+                    </tr>
+                </thead>
+                <tr ng-repeat="teamrec in $ctrl.teams">
+                    <td>{{teamrec.position}}</td>
+                    <td><a href="#!/teams/{{teamrec.number}}">{{teamrec.name}}</a></td>
+                    <td>{{teamrec.played}}</td>
+                    <td>{{teamrec.won}}</td>
+                    <td>{{teamrec.drawn}}</td>
+                    <td>{{teamrec.lost}}</td>
+                    <td>{{teamrec.for}}</td>
+                    <td>{{teamrec.against}}</td>
+                    <td>{{teamrec.goalDifference}}</td>
+                    <td>{{teamrec.points}}</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>

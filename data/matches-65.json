@@ -240,18 +240,6 @@
 				"attendance": "2201"
 			},
 			{
-				"id": "29320",
-				"date": "Saturday 15th October 2016",
-				"time": "15:00:00",
-				"competition": "Emirates FA Cup",
-				"round": "Fourth Qualifying Round",
-				"status": "Kick off 3pm",
-				"homeTeamNo": "65",
-				"homeTeamName": "Torquay United",
-				"awayTeamNo": "113",
-				"awayTeamName": "Woking"
-			},
-			{
 				"id": "3775",
 				"date": "Saturday 22nd October 2016",
 				"time": "15:00:00",

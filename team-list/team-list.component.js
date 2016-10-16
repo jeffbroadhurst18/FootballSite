@@ -17,6 +17,7 @@ function TeamListController(teamservice) {
 
     var onTeamsComplete = function (response) {
         self.teams = response.leagueTable.team;
+        self.competition = response.leagueTable.competition + " - " + getTodaysDate();
         teamservice.getTeamList().then(onTeamListComplete);
     }
 
@@ -37,4 +38,23 @@ function TeamListController(teamservice) {
     }
 
     getTeams();
+}
+
+function getTodaysDate()
+{
+    var today = new Date();
+    var dd = today.getDate();
+    var mm = today.getMonth() + 1; //January is 0!
+    var yyyy = today.getFullYear();
+
+    if (dd < 10) {
+        dd = '0' + dd
+    }
+
+    if (mm < 10) {
+        mm = '0' + mm
+    }
+
+    return dd + '/' + mm + '/' + yyyy;
+    
 }

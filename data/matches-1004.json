@@ -242,18 +242,6 @@
 				"attendance": "2201"
 			},
 			{
-				"id": "29315",
-				"date": "Saturday 15th October 2016",
-				"time": "15:00:00",
-				"competition": "Emirates FA Cup",
-				"round": "Fourth Qualifying Round",
-				"status": "Kick off 3pm",
-				"homeTeamNo": "131",
-				"homeTeamName": "Southport",
-				"awayTeamNo": "1004",
-				"awayTeamName": "Chester"
-			},
-			{
 				"id": "3778",
 				"date": "Saturday 22nd October 2016",
 				"time": "15:00:00",

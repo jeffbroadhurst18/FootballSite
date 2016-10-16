@@ -249,11 +249,16 @@
 				"time": "15:00:00",
 				"competition": "Emirates FA Cup",
 				"round": "Fourth Qualifying Round",
-				"status": "Kick off 3pm",
+				"status": "Full Time",
 				"homeTeamNo": "403",
 				"homeTeamName": "Maidstone United",
+				"homeTeamHalfTimeScore": "1",
+				"homeTeamScore": "3",
+				"awayTeamScore": "1",
+				"awayTeamHalfTimeScore": "0",
 				"awayTeamNo": "225",
-				"awayTeamName": "Billericay Town"
+				"awayTeamName": "Billericay Town",
+				"attendance": "1428"
 			},
 			{
 				"id": "3772",

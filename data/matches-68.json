@@ -247,11 +247,26 @@
 				"time": "15:00:00",
 				"competition": "Emirates FA Cup",
 				"round": "Fourth Qualifying Round",
-				"status": "Kick off 3pm",
+				"status": "Full Time",
 				"homeTeamNo": "178",
 				"homeTeamName": "Stamford",
+				"homeTeamScore": "1",
+				"awayTeamScore": "1",
 				"awayTeamNo": "68",
-				"awayTeamName": "Wrexham"
+				"awayTeamName": "Wrexham",
+				"attendance": "1264"
+			},
+			{
+				"id": "29700",
+				"date": "Tuesday 18th October 2016",
+				"time": "19:45:00",
+				"competition": "Emirates FA Cup",
+				"round": "Fourth Qualifying Round",
+				"status": "Kick off 7.45pm",
+				"homeTeamNo": "68",
+				"homeTeamName": "Wrexham",
+				"awayTeamNo": "178",
+				"awayTeamName": "Stamford"
 			},
 			{
 				"id": "3777",

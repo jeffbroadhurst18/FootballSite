@@ -247,11 +247,16 @@
 				"time": "15:00:00",
 				"competition": "Emirates FA Cup",
 				"round": "Fourth Qualifying Round",
-				"status": "Kick off 3pm",
+				"status": "Full Time",
 				"homeTeamNo": "187",
 				"homeTeamName": "Boreham Wood",
+				"homeTeamHalfTimeScore": "1",
+				"homeTeamScore": "3",
+				"awayTeamScore": "0",
+				"awayTeamHalfTimeScore": "0",
 				"awayTeamNo": "234",
-				"awayTeamName": "Hendon"
+				"awayTeamName": "Hendon",
+				"attendance": "457"
 			},
 			{
 				"id": "3767",

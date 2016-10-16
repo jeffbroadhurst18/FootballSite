@@ -247,11 +247,14 @@
 				"time": "15:00:00",
 				"competition": "Emirates FA Cup",
 				"round": "Fourth Qualifying Round",
-				"status": "Kick off 3pm",
+				"status": "Full Time",
 				"homeTeamNo": "230",
 				"homeTeamName": "Eastleigh",
+				"homeTeamScore": "6",
+				"awayTeamScore": "0",
 				"awayTeamNo": "760",
-				"awayTeamName": "North Leigh"
+				"awayTeamName": "North Leigh",
+				"attendance": "889"
 			},
 			{
 				"id": "3771",

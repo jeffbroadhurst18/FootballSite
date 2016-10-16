@@ -245,11 +245,16 @@
 				"time": "15:00:00",
 				"competition": "Emirates FA Cup",
 				"round": "Fourth Qualifying Round",
-				"status": "Kick off 3pm",
+				"status": "Full Time",
 				"homeTeamNo": "252",
 				"homeTeamName": "Burgess Hill Town",
+				"homeTeamHalfTimeScore": "0",
+				"homeTeamScore": "0",
+				"awayTeamScore": "5",
+				"awayTeamHalfTimeScore": "3",
 				"awayTeamNo": "229",
-				"awayTeamName": "Dover Athletic"
+				"awayTeamName": "Dover Athletic",
+				"attendance": "629"
 			},
 			{
 				"id": "3769",

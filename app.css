@@ -35,7 +35,7 @@
 
 .table-football{
 width:80%;
-margin-left:10%;
+margin-left:8%;
 }
 
 .form-football{
@@ -43,6 +43,21 @@ margin-left:10%;
 }
 
 .h1-football{
-    margin-left:10%;
+    margin-left:17%;
     color:darkblue;
+}
+
+.glyphicon.glyphicon-home {
+    font-size: 50px;
+    color: darkblue;
+}
+
+.main-header{
+    margin-left:10%;
+    margin-bottom:20px;
+    width:80%;
+}
+
+.football-menu{
+    margin-bottom:10px;
 }

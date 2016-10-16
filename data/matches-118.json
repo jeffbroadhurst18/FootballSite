@@ -242,18 +242,6 @@
 				"attendance": "1402"
 			},
 			{
-				"id": "29301",
-				"date": "Saturday 15th October 2016",
-				"time": "15:00:00",
-				"competition": "Emirates FA Cup",
-				"round": "Fourth Qualifying Round",
-				"status": "Kick off 3pm",
-				"homeTeamNo": "118",
-				"homeTeamName": "Barrow",
-				"awayTeamNo": "66",
-				"awayTeamName": "Tranmere Rovers"
-			},
-			{
 				"id": "3776",
 				"date": "Saturday 22nd October 2016",
 				"time": "15:00:00",

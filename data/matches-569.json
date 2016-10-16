@@ -247,11 +247,14 @@
 				"time": "15:00:00",
 				"competition": "Emirates FA Cup",
 				"round": "Fourth Qualifying Round",
-				"status": "Kick off 3pm",
+				"status": "Full Time",
 				"homeTeamNo": "569",
 				"homeTeamName": "Solihull Moors",
+				"homeTeamScore": "3",
+				"awayTeamScore": "1",
 				"awayTeamNo": "125",
-				"awayTeamName": "Kettering Town"
+				"awayTeamName": "Kettering Town",
+				"attendance": "769"
 			},
 			{
 				"id": "3773",
