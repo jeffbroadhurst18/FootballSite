@@ -1,0 +1,202 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Saturday 10th September 2016",
+		"time": "15:00:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "226",
+				"name": "Braintree Town",
+				"halfTimeScore": "0",
+				"score": "1",
+				"goals": [
+					{
+						"goal": "Michael Cheek (57')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "22",
+						"name": "Sam Beasant"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Barney Williams",
+						"caution": {
+							"minute": "82"
+						}
+					},
+					{
+						"shirtNo": "3",
+						"name": "Jerome Okimo"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Rohdell Gordon",
+						"substitution": {
+							"replacedBy": "Sam Matthews",
+							"minute": "66"
+						}
+					},
+					{
+						"shirtNo": "6",
+						"name": "Jon Ashton"
+					},
+					{
+						"shirtNo": "18",
+						"name": "Jake Goodman",
+						"caution": {
+							"minute": "39"
+						}
+					},
+					{
+						"shirtNo": "4",
+						"name": "Harry Lee"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Chez Isaac"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Simeon Akinola"
+					},
+					{
+						"shirtNo": "23",
+						"name": "Michael Cheek"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Lee Barnard",
+						"substitution": {
+							"replacedBy": "Brandon Goodship",
+							"minute": "58"
+						}
+					},
+					{
+						"shirtNo": "5",
+						"name": "Ian Gayle"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Craig Braham-Barrett"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Sam Matthews"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Brandon Goodship"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Sam Come"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "292",
+				"name": "Gateshead",
+				"halfTimeScore": "1",
+				"score": "4",
+				"goals": [
+					{
+						"goal": "Reece Styche (23')"
+					},
+					{
+						"goal": "Reece Styche (52')"
+					},
+					{
+						"goal": "Patrick McLaughlin (70')"
+					},
+					{
+						"goal": "Wesley York (82')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Sam Johnson"
+					},
+					{
+						"shirtNo": "2",
+						"name": "James Bolton"
+					},
+					{
+						"shirtNo": "3",
+						"name": "George Smith"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Mitch Brundle",
+						"caution": {
+							"minute": "59"
+						}
+					},
+					{
+						"shirtNo": "5",
+						"name": "Liam Hogan"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Manny Smith"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Wesley York",
+						"caution": {
+							"minute": "68"
+						}
+					},
+					{
+						"shirtNo": "12",
+						"name": "Rhys Oates"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Sam Jones",
+						"substitution": {
+							"replacedBy": "Danny Johnson",
+							"minute": "46"
+						}
+					},
+					{
+						"shirtNo": "17",
+						"name": "Reece Styche",
+						"substitution": {
+							"replacedBy": "Augustin Mafuta",
+							"minute": "63"
+						}
+					},
+					{
+						"shirtNo": "26",
+						"name": "Patrick McLaughlin"
+					},
+					{
+						"shirtNo": "13",
+						"name": "Dan Hanford"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Danny Johnson"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Adam Wrightson"
+					},
+					{
+						"shirtNo": "22",
+						"name": "Augustin Mafuta"
+					}
+				]
+			}
+		],
+		"attendance": "519",
+		"venue": "Amlin Stadium"
+	}
+}
+

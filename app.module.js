@@ -5,5 +5,6 @@ angular.module('teamApp', [
   'core',
   'teamList',
   'teamDetail',
+  'matchDetail',
   'ngRoute'
 ]);

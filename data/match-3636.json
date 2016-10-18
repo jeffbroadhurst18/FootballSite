@@ -1,0 +1,178 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Saturday 20th August 2016",
+		"time": "15:00:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "226",
+				"name": "Braintree Town",
+				"halfTimeScore": "1",
+				"score": "2",
+				"goals": [
+					{
+						"goal": "Jake Goodman (8')"
+					},
+					{
+						"goal": "Simeon Akinola (76')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Jamie Butler"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Barney Williams"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Ian Gayle"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Jack Midson",
+						"substitution": {
+							"replacedBy": "Sam Come",
+							"minute": "72"
+						}
+					},
+					{
+						"shirtNo": "18",
+						"name": "Jake Goodman"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Jerome Okimo"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Harry Lee"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Chez Isaac",
+						"substitution": {
+							"replacedBy": "Rohdell Gordon",
+							"minute": "72"
+						}
+					},
+					{
+						"shirtNo": "10",
+						"name": "Simeon Akinola",
+						"substitution": {
+							"replacedBy": "Craig Braham-Barrett",
+							"minute": "84"
+						}
+					},
+					{
+						"shirtNo": "9",
+						"name": "Lee Barnard"
+					},
+					{
+						"shirtNo": "23",
+						"name": "Michael Cheek"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Craig Braham-Barrett"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Joe Maybanks"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Zac Fagan"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Rohdell Gordon"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Sam Come"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "94",
+				"name": "Aldershot Town",
+				"halfTimeScore": "0",
+				"score": "0",
+				"players": [
+					{
+						"shirtNo": "25",
+						"name": "Mark Smith"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Nick Arnold"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Jack Saville",
+						"caution": {
+							"minute": "51"
+						}
+					},
+					{
+						"shirtNo": "15",
+						"name": "Josh Wakefield"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Cheye Alexander"
+					},
+					{
+						"shirtNo": "22",
+						"name": "Callum Reynolds"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Iffy Allen",
+						"substitution": {
+							"replacedBy": "James Kellerman",
+							"minute": "64"
+						}
+					},
+					{
+						"shirtNo": "16",
+						"name": "Jake Gallagher"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Scott Rendell"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Bernard Mensah"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Matt McClure"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Anthony Straker"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Will Evans"
+					},
+					{
+						"shirtNo": "17",
+						"name": "James Kellerman"
+					}
+				]
+			}
+		],
+		"attendance": "677",
+		"venue": "Amlin Stadium"
+	}
+}
+

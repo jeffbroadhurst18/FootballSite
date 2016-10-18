@@ -1,0 +1,201 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Saturday 3rd September 2016",
+		"time": "15:00:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "114",
+				"name": "York City",
+				"halfTimeScore": "1",
+				"score": "4",
+				"goals": [
+					{
+						"goal": "Richard Brodie (9')"
+					},
+					{
+						"goal": "Aidan Connolly (84')"
+					},
+					{
+						"goal": "Scott Fenwick (90')"
+					},
+					{
+						"goal": "Aidan Connolly (90')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "28",
+						"name": "Kyle Letheren"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Shaun Rooney"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Matt Fry"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Simon Heslop"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Alex Whittle"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Jack Higgins",
+						"caution": {
+							"minute": "69"
+						}
+					},
+					{
+						"shirtNo": "12",
+						"name": "Aidan Connolly"
+					},
+					{
+						"shirtNo": "23",
+						"name": "Matt Dixon"
+					},
+					{
+						"shirtNo": "27",
+						"name": "Jake Wright",
+						"substitution": {
+							"replacedBy": "Kaine Felix",
+							"minute": "74"
+						},
+						"caution": {
+							"minute": "56"
+						}
+					},
+					{
+						"shirtNo": "9",
+						"name": "Richard Brodie",
+						"substitution": {
+							"replacedBy": "Scott Fenwick",
+							"minute": "84"
+						}
+					},
+					{
+						"shirtNo": "13",
+						"name": "Luke Simpson"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Daniel Nti"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Ben Clappison"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Kaine Felix"
+					},
+					{
+						"shirtNo": "21",
+						"name": "Scott Fenwick"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "569",
+				"name": "Solihull Moors",
+				"halfTimeScore": "0",
+				"score": "0",
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Daniel Lewis"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Jordan Fagbola",
+						"substitution": {
+							"replacedBy": "Omari Sterling-James",
+							"minute": "83"
+						}
+					},
+					{
+						"shirtNo": "3",
+						"name": "Connor Franklin"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Shepherd Murombedzi"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Jordan Gough"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Liam Daly"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Jamie Osborne"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Ryan Beswick",
+						"caution": {
+							"minute": "40"
+						}
+					},
+					{
+						"shirtNo": "11",
+						"name": "Darryl Knights",
+						"substitution": {
+							"replacedBy": "Stefan Moore",
+							"minute": "72"
+						}
+					},
+					{
+						"shirtNo": "7",
+						"name": "Akwasi Asante",
+						"substitution": {
+							"replacedBy": "Harry White",
+							"minute": "72"
+						}
+					},
+					{
+						"shirtNo": "9",
+						"name": "Andy Brown",
+						"caution": {
+							"minute": "14"
+						}
+					},
+					{
+						"shirtNo": "23",
+						"name": "Nathan Vaughan"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Jean-Yves Koue Niate"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Stefan Moore"
+					},
+					{
+						"shirtNo": "19",
+						"name": "Harry White"
+					},
+					{
+						"shirtNo": "22",
+						"name": "Omari Sterling-James"
+					}
+				]
+			}
+		],
+		"attendance": "2105",
+		"venue": "Bootham Crescent"
+	}
+}
+

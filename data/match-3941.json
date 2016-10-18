@@ -1,0 +1,21 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Saturday 28th January 2017",
+		"time": "15:00:00",
+		"status": "Kick off 3pm",
+		"teams": [
+			{
+				"side": "home",
+				"no": "251",
+				"name": "Bromley"
+			},
+			{
+				"side": "away",
+				"no": "131",
+				"name": "Southport"
+			}
+		]
+	}
+}
+

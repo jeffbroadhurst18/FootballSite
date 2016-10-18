@@ -1,4 +1,4 @@
 ﻿'use strict';
 
 // Define the `core.phone` module
-angular.module('core', ['core.team']);
+angular.module('core', ['core.team','core.match']);

@@ -1,0 +1,21 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Sunday 1st January 2017",
+		"time": "15:00:00",
+		"status": "Kick off 3pm",
+		"teams": [
+			{
+				"side": "home",
+				"no": "187",
+				"name": "Boreham Wood"
+			},
+			{
+				"side": "away",
+				"no": "230",
+				"name": "Eastleigh"
+			}
+		]
+	}
+}
+

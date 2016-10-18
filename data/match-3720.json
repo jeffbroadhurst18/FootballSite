@@ -1,0 +1,199 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Saturday 24th September 2016",
+		"time": "15:00:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "118",
+				"name": "Barrow",
+				"halfTimeScore": "0",
+				"score": "2",
+				"goals": [
+					{
+						"goal": "Danny Livesey (57')"
+					},
+					{
+						"goal": "Matt Fry (og 65')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Joel Dixon"
+					},
+					{
+						"shirtNo": "21",
+						"name": "Dominic Smith"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Nick Anderton",
+						"caution": {
+							"minute": "47"
+						}
+					},
+					{
+						"shirtNo": "18",
+						"name": "Liam Hughes",
+						"substitution": {
+							"replacedBy": "Lindon Meikle",
+							"minute": "86"
+						},
+						"caution": {
+							"minute": "54"
+						}
+					},
+					{
+						"shirtNo": "6",
+						"name": "Moussa Diarra"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Danny Livesey"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Paul Turnbull"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Jordan Williams"
+					},
+					{
+						"shirtNo": "22",
+						"name": "Ryan Yates"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Richard Bennett",
+						"substitution": {
+							"replacedBy": "Ross Hannah",
+							"minute": "70"
+						}
+					},
+					{
+						"shirtNo": "20",
+						"name": "Byron Harrison",
+						"caution": {
+							"minute": "80"
+						}
+					},
+					{
+						"shirtNo": "7",
+						"name": "Andy Haworth"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Ross Hannah"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Harry Panayiotou"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Lindon Meikle"
+					},
+					{
+						"shirtNo": "19",
+						"name": "Euan Murray"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "114",
+				"name": "York City",
+				"halfTimeScore": "0",
+				"score": "0",
+				"players": [
+					{
+						"shirtNo": "28",
+						"name": "Kyle Letheren"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Shaun Rooney",
+						"substitution": {
+							"replacedBy": "Joshua Robinson",
+							"minute": "51"
+						}
+					},
+					{
+						"shirtNo": "5",
+						"name": "Jack Higgins"
+					},
+					{
+						"shirtNo": "23",
+						"name": "Matt Dixon"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Alex Whittle"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Matt Fry"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Aidan Connolly"
+					},
+					{
+						"shirtNo": "27",
+						"name": "Jake Wright",
+						"substitution": {
+							"replacedBy": "Kaine Felix",
+							"minute": "67"
+						},
+						"caution": {
+							"minute": "66"
+						}
+					},
+					{
+						"shirtNo": "4",
+						"name": "Clovis Kamdjo",
+						"substitution": {
+							"replacedBy": "Fraser Murdoch",
+							"minute": "65"
+						}
+					},
+					{
+						"shirtNo": "27",
+						"name": "Jake Wright"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Simon Heslop"
+					},
+					{
+						"shirtNo": "13",
+						"name": "Luke Simpson"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Joshua Robinson"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Kaine Felix"
+					},
+					{
+						"shirtNo": "21",
+						"name": "Scott Fenwick"
+					},
+					{
+						"shirtNo": "29",
+						"name": "Fraser Murdoch"
+					}
+				]
+			}
+		],
+		"attendance": "1628",
+		"venue": "Holker Street"
+	}
+}
+

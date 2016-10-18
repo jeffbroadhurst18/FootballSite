@@ -1,0 +1,21 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Tuesday 22nd November 2016",
+		"time": "19:45:00",
+		"status": "Kick off 7.45pm",
+		"teams": [
+			{
+				"side": "home",
+				"no": "229",
+				"name": "Dover Athletic"
+			},
+			{
+				"side": "away",
+				"no": "113",
+				"name": "Woking"
+			}
+		]
+	}
+}
+

@@ -1,0 +1,21 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Saturday 29th October 2016",
+		"time": "12:15:00",
+		"status": "Kick off 12.15pm",
+		"teams": [
+			{
+				"side": "home",
+				"no": "118",
+				"name": "Barrow"
+			},
+			{
+				"side": "away",
+				"no": "230",
+				"name": "Eastleigh"
+			}
+		]
+	}
+}
+

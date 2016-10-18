@@ -10,9 +10,13 @@ angular.
           when('/teams', {
               template: '<team-list></team-list>'
           }).
-            when('/teams/:teamId',{
+            when('/teams/:teamId', {
                 template: '<team-detail></team-detail>'
-            }).otherwise('/teams');
+            }).
+            when('/match/:matchId', {
+                template: '<match-detail></match-detail>'
+            })
+            .otherwise('/teams');
     }
   ]);
 

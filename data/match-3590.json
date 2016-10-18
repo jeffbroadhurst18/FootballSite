@@ -1,0 +1,188 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Saturday 6th August 2016",
+		"time": "15:00:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "100",
+				"name": "Dagenham & Redbridge",
+				"score": "3",
+				"goals": [
+					{
+						"goal": "Fejiri Okenabirhie (15')"
+					},
+					{
+						"goal": "Luke Guttridge (23')"
+					},
+					{
+						"goal": "Jordan Maguire-Drew (67')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Elliot Justham"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Curtley Williams"
+					},
+					{
+						"shirtNo": "33",
+						"name": "Joe Widdowson"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Luke Guttridge",
+						"substitution": {
+							"replacedBy": "Frankie Raymond",
+							"minute": "89"
+						}
+					},
+					{
+						"shirtNo": "4",
+						"name": "Scott Doe"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Matt Robinson",
+						"substitution": {
+							"replacedBy": "Joshua Staunton",
+							"minute": "76"
+						}
+					},
+					{
+						"shirtNo": "17",
+						"name": "Andre Boucaud"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Craig Robson"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Jordan Maguire-Drew",
+						"substitution": {
+							"replacedBy": "Christian Assombalonga",
+							"minute": "68"
+						}
+					},
+					{
+						"shirtNo": "11",
+						"name": "Fejiri Okenabirhie"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Oliver Hawkins"
+					},
+					{
+						"shirtNo": "30",
+						"name": "Mark Cousins"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Frankie Raymond"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Christian Assombalonga"
+					},
+					{
+						"shirtNo": "18",
+						"name": "Leo Donnellan"
+					},
+					{
+						"shirtNo": "32",
+						"name": "Joshua Staunton"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "131",
+				"name": "Southport",
+				"score": "0",
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Tyrell Belford"
+					},
+					{
+						"shirtNo": "22",
+						"name": "Joe Kearns"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Neil Ashton"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Andrai Jones"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Josh Thompson"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Liam Nolan"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Keil O'Brien",
+						"substitution": {
+							"replacedBy": "Ross White",
+							"minute": "69"
+						}
+					},
+					{
+						"shirtNo": "16",
+						"name": "James Caton"
+					},
+					{
+						"shirtNo": "18",
+						"name": "Gary Jones"
+					},
+					{
+						"shirtNo": "9",
+						"name": "James Gray"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Louis Almond",
+						"substitution": {
+							"replacedBy": "Ashley Grimes",
+							"minute": "62"
+						}
+					},
+					{
+						"shirtNo": "13",
+						"name": "Ryan Crump"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Ross White"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Jamie Allen"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Ashley Grimes"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Connor McCarthy"
+					}
+				]
+			}
+		],
+		"attendance": "1296",
+		"venue": "Victoria Road"
+	}
+}
+

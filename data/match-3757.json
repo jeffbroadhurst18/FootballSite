@@ -1,0 +1,194 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Saturday 8th October 2016",
+		"time": "15:00:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "226",
+				"name": "Braintree Town",
+				"halfTimeScore": "0",
+				"score": "1",
+				"goals": [
+					{
+						"goal": "Lee Barnard (pen 88')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Will Puddy"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Barney Williams"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Jerome Okimo"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Chez Isaac",
+						"caution": {
+							"minute": "57"
+						}
+					},
+					{
+						"shirtNo": "24",
+						"name": "George Elokobi"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Ian Gayle"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Harry Lee",
+						"substitution": {
+							"replacedBy": "Reece Hall-Johnson",
+							"minute": "70"
+						}
+					},
+					{
+						"shirtNo": "14",
+						"name": "Oliver Muldoon",
+						"substitution": {
+							"replacedBy": "Lee Barnard",
+							"minute": "86"
+						}
+					},
+					{
+						"shirtNo": "15",
+						"name": "Sam Matthews"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Jack Midson",
+						"substitution": {
+							"replacedBy": "Michael Cheek",
+							"minute": "54"
+						}
+					},
+					{
+						"shirtNo": "10",
+						"name": "Simeon Akinola"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Jon Ashton"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Lee Barnard"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Reece Hall-Johnson"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Sam Come"
+					},
+					{
+						"shirtNo": "23",
+						"name": "Michael Cheek"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "114",
+				"name": "York City",
+				"halfTimeScore": "1",
+				"score": "1",
+				"goals": [
+					{
+						"goal": "Simon Heslop (5')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "28",
+						"name": "Kyle Letheren"
+					},
+					{
+						"shirtNo": "26",
+						"name": "Lanre Oyebanjo"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Shaun Rooney",
+						"caution": {
+							"minute": "90"
+						}
+					},
+					{
+						"shirtNo": "4",
+						"name": "Clovis Kamdjo"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Alex Whittle"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Jack Higgins"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Simon Heslop"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Yan Klukowski"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Danny Galbraith"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Richard Brodie"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Richard Brodie",
+						"substitution": {
+							"replacedBy": "Daniel Nti",
+							"minute": "65"
+						},
+						"caution": {
+							"minute": "23"
+						}
+					},
+					{
+						"shirtNo": "6",
+						"name": "Matt Fry"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Daniel Nti"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Daniel Nti"
+					},
+					{
+						"shirtNo": "29",
+						"name": "Fraser Murdoch"
+					},
+					{
+						"shirtNo": "29",
+						"name": "Fraser Murdoch"
+					}
+				]
+			}
+		],
+		"attendance": "728",
+		"venue": "Amlin Stadium"
+	}
+}
+
