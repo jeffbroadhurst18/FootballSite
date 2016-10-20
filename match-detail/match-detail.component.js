@@ -18,8 +18,23 @@ function MatchDetailController($routeParams, matchservice) {
     var onMatchComplete = function (response)
     {
         self.results = response;
+
+        populateSubs(0);
+        populateSubs(1);
     }
 
     getMatch($routeParams.matchId);
     
+}
+
+function populateSubs(id)
+{
+    for (var i = 0; i < self.results.match.teams[id].players.length; i++) {
+        if (self.results.match.teams[1].players[id].substitution == null) {
+            self.results.match.teams[1].players[id].substitution = { replacedBy: " ", minute: " " };
+        }
+        if (self.results.match.teams[1].players[id].caution == null) {
+            self.results.match.teams[1].players[id].caution = { minute: " " };
+        }
+    }
 }

@@ -1,44 +1,88 @@
-﻿<h1 class="h1 h1-football">{{$ctrl.results.match.teams[0].name}} {{$ctrl.results.match.teams[0].score}} </h1>
-<h1 class="h1 h1-football">{{$ctrl.results.match.teams[1].name}} {{$ctrl.results.match.teams[1].score}}</h1>
-<h2 class="h2 h1-football">{{$ctrl.results.match.date}}</h2>
-<h2 class="h2 h1-football">{{$ctrl.results.match.competition}}</h2>
-<div class="container-fluid">
+﻿<div class="container-fluid">
     <div class="row">
         <div class="col-md-1">
             <a class="glyphicon glyphicon-home football-menu" href="#/teams"></a>
         </div>
         <div class="col-md-11">
-            <table class="table table-inverse table-condensed table-bordered text-left table-football">
-                <thead class="table-header text-left">
-                    <tr>
-                        <th>{{$ctrl.results.match.teams[0].name}} </th>
-                    </tr>
-                </thead>
-                <tr><td>Goals</td></tr>
-                <tr ng-repeat="goal in $ctrl.results.match.teams[0].goals">
-                    <td>{{goal.goal}}</td>
-                </tr>
-                <tr><td>Players</td></tr>
-                <tr ng-repeat="player in $ctrl.results.match.teams[0].players">
-                    <td>{{player.name}}</td>
-                </tr>
+            <div class="row h2 h2-football">
+                <div class="col-md-1"></div>
+                <div class="col-md-8">
+                    {{$ctrl.results.match.teams[0].name}}
+                    {{$ctrl.results.match.teams[0].score}} {{$ctrl.results.match.teams[1].name}}
+                    {{$ctrl.results.match.teams[1].score}}
+                </div>
+                <div class="col-md-3"></div>
+            </div>
+            <div class="row h4 h4-football">
+                <div class="col-md-1"></div>
+                <div class="col-md-8">{{$ctrl.results.match.competition}}</div>
+                <div class="col-md-3"></div>
+            </div>
+            <div class="row h4 h4-football">
+                <div class="col-md-1"></div>
+                <div class="col-md-8">{{$ctrl.results.match.date}} {{$ctrl.results.match.time}} </div>
+                <div class="col-md-3"></div>
+            </div>
+            <div class="row football-spacer">
 
-            </table>
-            <table class="table table-inverse table-condensed table-bordered text-left table-football">
-                <thead class="table-header text-left">
-                    <tr>
-                        <th>{{$ctrl.results.match.teams[1].name}} </th>
-                    </tr>
-                </thead>
-                <tr><td>Goals</td></tr>
-                <tr ng-repeat="goal in $ctrl.results.match.teams[1].goals">
-                    <td>{{goal.goal}}</td>
-                </tr>
-                <tr><td>Players</td></tr>
-                <tr ng-repeat="player in $ctrl.results.match.teams[1].players">
-                    <td>{{player.name}}</td>
-                </tr>
-            </table>
+            </div>
+            <div class="row football-spacer">
+                <div class="col-md-2"></div>
+                <div class="col-md-4 football-goal">{{$ctrl.results.match.teams[0].name}}</div>
+                <div class="col-md-4 football-goal">{{$ctrl.results.match.teams[1].name}}</div>
+                <div class="col-md-2"></div>
+            </div>
+            <div class="row">
+                <div class="col-sm-2"></div>
+                <div class="col-sm-4 football-goal">
+                    <div class="row" ng-repeat="g in $ctrl.results.match.teams[0].goals">
+                        <div>{{g.goal}}</div>
+                    </div>
+                </div>
+                <div class="col-sm-4 football-goal">
+                    <div class="row" ng-repeat="g in $ctrl.results.match.teams[1].goals">
+                        <div>{{g.goal}}</div>
+                    </div>
+                </div>
+                <div class="col-sm-2 football-col"></div>
+            </div>
+            <div class="row football-spacer">
+            </div>
+            <div class="row">
+                <div class="col-sm-1"></div>
+                <div class="col-sm-5">
+                    <table>
+                       <tr>
+                           <th></th>
+                           <th></th>
+                           <th class="football-cell">Y</thclass="football-cell">
+                           <th class="football-cell">Sub.</th>
+                       </tr>
+                         <tr ng-repeat="p in $ctrl.results.match.teams[0].players">
+                            <td class="football-cell">{{p.shirtNo}}</td>
+                            <td class="football-cell">{{p.name}}</td>
+                            <td class="football-cell">{{p.caution.minute}}</td>
+                            <td class="football-cell">{{p.substitution.replacedBy}} {{p.substitution.minute}}</td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="col-sm-6">
+                    <table>
+                        <tr>
+                            <th></th>
+                            <th></th>
+                            <th class="football-cell">Y</th>
+                            <th class="football-cell">Sub.</th>
+                        </tr>
+                        <tr ng-repeat="p in $ctrl.results.match.teams[1].players">
+                            <td class="football-cell">{{p.shirtNo}}</td>
+                            <td class="football-cell">{{p.name}}</td>
+                            <td class="football-cell">{{p.caution.minute}}</td>
+                            <td class="football-cell">{{p.substitution.replacedBy}} {{p.substitution.minute}}</td>
+                        </tr>
+                    </table>
+                </div>
+
+            </div>
         </div>
     </div>
-</div>
