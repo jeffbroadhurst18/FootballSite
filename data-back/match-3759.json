@@ -1,0 +1,173 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Saturday 8th October 2016",
+		"time": "15:00:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "1004",
+				"name": "Chester",
+				"halfTimeScore": "1",
+				"score": "1",
+				"goals": [
+					{
+						"goal": "Ryan Lloyd (26')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "13",
+						"name": "Liam Roberts"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Theo Vassell",
+						"caution": {
+							"minute": "53"
+						}
+					},
+					{
+						"shirtNo": "12",
+						"name": "Sam Hughes"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Luke George"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Johnny Hunt"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Ryan Astles"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Elliott Durrell",
+						"substitution": {
+							"replacedBy": "Jordan Chapell",
+							"minute": "64"
+						}
+					},
+					{
+						"shirtNo": "21",
+						"name": "Ryan Lloyd",
+						"substitution": {
+							"replacedBy": "Wade Joyce",
+							"minute": "81"
+						},
+						"caution": {
+							"minute": "64"
+						}
+					},
+					{
+						"shirtNo": "7",
+						"name": "Craig Mahon"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Oluwaseun Akintunde",
+						"substitution": {
+							"replacedBy": "Kane Richards",
+							"minute": "60"
+						}
+					},
+					{
+						"shirtNo": "9",
+						"name": "James Alabi"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Evan Horwood"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Blaine Hudson"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Jordan Chapell"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Wade Joyce"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Kane Richards"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "65",
+				"name": "Torquay United",
+				"halfTimeScore": "0",
+				"score": "0",
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Brendan Moore"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Lathaniel Rowe-Turner"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Sean McGinty",
+						"caution": {
+							"minute": "89"
+						}
+					},
+					{
+						"shirtNo": "8",
+						"name": "Luke Young"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Giancarlo Gallifuoco"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Joe Ward",
+						"substitution": {
+							"replacedBy": "Kevin Nicholson",
+							"minute": "81"
+						}
+					},
+					{
+						"shirtNo": "10",
+						"name": "Courtney Richards"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Damon Lathrope"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Sam Chaney"
+					},
+					{
+						"shirtNo": "18",
+						"name": "Jamie Reid"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Nathan Blissett"
+					},
+					{
+						"shirtNo": "33",
+						"name": "Kevin Nicholson"
+					}
+				]
+			}
+		],
+		"attendance": "2201",
+		"venue": "Lookers Vauxhall Stadium"
+	}
+}
+

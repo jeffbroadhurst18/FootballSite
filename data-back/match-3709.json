@@ -1,0 +1,194 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Saturday 17th September 2016",
+		"time": "15:00:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "100",
+				"name": "Dagenham & Redbridge",
+				"halfTimeScore": "1",
+				"score": "2",
+				"goals": [
+					{
+						"goal": "Oliver Hawkins (36')"
+					},
+					{
+						"goal": "Luke Howell (86')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Elliot Justham"
+					},
+					{
+						"shirtNo": "32",
+						"name": "Joshua Staunton"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Joe Widdowson"
+					},
+					{
+						"shirtNo": "25",
+						"name": "Corey Whitely"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Matt Robinson"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Andre Boucaud"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Frankie Raymond"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Scott Doe"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Jordan Maguire-Drew",
+						"substitution": {
+							"replacedBy": "Luke Howell",
+							"minute": "85"
+						}
+					},
+					{
+						"shirtNo": "11",
+						"name": "Fejiri Okenabirhie",
+						"substitution": {
+							"replacedBy": "Christian Assombalonga",
+							"minute": "89"
+						}
+					},
+					{
+						"shirtNo": "12",
+						"name": "Oliver Hawkins",
+						"substitution": {
+							"replacedBy": "Paul Benson",
+							"minute": "89"
+						}
+					},
+					{
+						"shirtNo": "30",
+						"name": "Mark Cousins"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Craig Robson"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Luke Howell"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Christian Assombalonga"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Paul Benson"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "319",
+				"name": "North Ferriby United",
+				"halfTimeScore": "0",
+				"score": "0",
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Rory Watson"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Sam Topliss"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Connor Oliver"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Mark Gray"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Jake Skelton"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Ben Middleton"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Taron Hare"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Simon Russell"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Conner Robinson",
+						"substitution": {
+							"replacedBy": "Ryan Kendall",
+							"minute": "80"
+						}
+					},
+					{
+						"shirtNo": "7",
+						"name": "Danny Clarke",
+						"substitution": {
+							"replacedBy": "Ryan Fallowfield",
+							"minute": "29"
+						}
+					},
+					{
+						"shirtNo": "25",
+						"name": "Reece Thompson",
+						"substitution": {
+							"replacedBy": "Vinny Mukendi",
+							"minute": "80"
+						}
+					},
+					{
+						"shirtNo": "6",
+						"name": "Danny Emerton"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Ryan Kendall",
+						"caution": {
+							"minute": "89"
+						}
+					},
+					{
+						"shirtNo": "14",
+						"name": "Ryan Fallowfield"
+					},
+					{
+						"shirtNo": "21",
+						"name": "Vinny Mukendi"
+					},
+					{
+						"shirtNo": "21",
+						"name": "Vinny Mukendi"
+					}
+				]
+			}
+		],
+		"attendance": "1119",
+		"venue": "Victoria Road"
+	}
+}
+

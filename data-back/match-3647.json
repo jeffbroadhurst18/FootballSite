@@ -1,0 +1,26 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Saturday 27th August 2016",
+		"time": "15:00:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "94",
+				"name": "Aldershot Town",
+				"halfTimeScore": "2",
+				"score": "2"
+			},
+			{
+				"side": "away",
+				"no": "319",
+				"name": "North Ferriby United",
+				"halfTimeScore": "0",
+				"score": "0"
+			}
+		],
+		"attendance": "1527"
+	}
+}
+

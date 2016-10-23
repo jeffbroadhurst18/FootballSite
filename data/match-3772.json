@@ -3,20 +3,182 @@
 		"competition": "National League",
 		"date": "Saturday 22nd October 2016",
 		"time": "15:00:00",
-		"status": "Kick off 3pm",
+		"status": "Full Time",
 		"teams": [
 			{
 				"side": "home",
 				"no": "403",
-				"name": "Maidstone United"
+				"name": "Maidstone United",
+				"halfTimeScore": "0",
+				"score": "0",
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Lee Worgan"
+					},
+					{
+						"shirtNo": "22",
+						"name": "Nana Ofori-Twumasi"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Anthony Acheampong",
+						"caution": {
+							"minute": "67"
+						}
+					},
+					{
+						"shirtNo": "12",
+						"name": "Jack Evans"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Kevin Lokko"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Tom Mills"
+					},
+					{
+						"shirtNo": "6",
+						"name": "James Rogers",
+						"substitution": {
+							"replacedBy": "Bobby-Joe Taylor",
+							"minute": "53"
+						}
+					},
+					{
+						"shirtNo": "10",
+						"name": "Jack Paxman"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Alex Flisher",
+						"substitution": {
+							"replacedBy": "Tom Murphy",
+							"minute": "68"
+						}
+					},
+					{
+						"shirtNo": "23",
+						"name": "Yemi Odubade",
+						"substitution": {
+							"replacedBy": "Liam Enver-Marum",
+							"minute": "62"
+						}
+					},
+					{
+						"shirtNo": "8",
+						"name": "Dan Sweeney"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Tom Murphy"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Tom Murphy"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Bobby-Joe Taylor"
+					},
+					{
+						"shirtNo": "24",
+						"name": "Liam Enver-Marum"
+					},
+					{
+						"shirtNo": "24",
+						"name": "Liam Enver-Marum"
+					}
+				]
 			},
 			{
 				"side": "away",
 				"no": "292",
-				"name": "Gateshead"
+				"name": "Gateshead",
+				"halfTimeScore": "1",
+				"score": "2",
+				"goals": [
+					{
+						"goal": "Danny Johnson (45')"
+					},
+					{
+						"goal": "Danny Johnson (70')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "13",
+						"name": "Dan Hanford"
+					},
+					{
+						"shirtNo": "3",
+						"name": "George Smith"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Manny Smith"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Wesley York",
+						"substitution": {
+							"replacedBy": "Reece Styche",
+							"minute": "79"
+						}
+					},
+					{
+						"shirtNo": "5",
+						"name": "Liam Hogan"
+					},
+					{
+						"shirtNo": "19",
+						"name": "Dan Jones"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Mitch Brundle",
+						"caution": {
+							"minute": "89"
+						}
+					},
+					{
+						"shirtNo": "9",
+						"name": "Danny Johnson"
+					},
+					{
+						"shirtNo": "25",
+						"name": "Luke Hannant"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Sam Jones"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Russell Penn"
+					},
+					{
+						"shirtNo": "1",
+						"name": "Sam Johnson"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Reece Styche"
+					},
+					{
+						"shirtNo": "22",
+						"name": "Augustin Mafuta"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Adam Wrightson"
+					}
+				]
 			}
 		],
-		"venue": "The Gallagher Stadium"
+		"venue": "Gallagher Stadium"
 	}
 }
 

@@ -1,0 +1,202 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Monday 29th August 2016",
+		"time": "15:00:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "68",
+				"name": "Wrexham",
+				"halfTimeScore": "1",
+				"score": "2",
+				"goals": [
+					{
+						"goal": "John Rooney (pen 16')"
+					},
+					{
+						"goal": "Sean Newton (63')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Shwan Jalal"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Hamza Bencherif"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Curtis Tilt"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Kai Edwards"
+					},
+					{
+						"shirtNo": "10",
+						"name": "John Rooney"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Anthony Barry"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Sean Newton",
+						"caution": {
+							"minute": "87"
+						}
+					},
+					{
+						"shirtNo": "13",
+						"name": "Mark Carrington"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Paul Rutherford"
+					},
+					{
+						"shirtNo": "18",
+						"name": "Shaun Harrad",
+						"substitution": {
+							"replacedBy": "Gerry McDonagh",
+							"minute": "86"
+						},
+						"caution": {
+							"minute": "73"
+						}
+					},
+					{
+						"shirtNo": "29",
+						"name": "Tyler Harvey",
+						"substitution": {
+							"replacedBy": "Callum Powell",
+							"minute": "51"
+						}
+					},
+					{
+						"shirtNo": "5",
+						"name": "Martin Riley"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Callum Powell"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Gerry McDonagh"
+					},
+					{
+						"shirtNo": "23",
+						"name": "Nortei Nortey"
+					},
+					{
+						"shirtNo": "27",
+						"name": "Bradley Reid"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "114",
+				"name": "York City",
+				"halfTimeScore": "1",
+				"score": "1",
+				"goals": [
+					{
+						"goal": "Richard Brodie (24')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "28",
+						"name": "Kyle Letheren"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Shaun Rooney",
+						"caution": {
+							"minute": "73"
+						}
+					},
+					{
+						"shirtNo": "3",
+						"name": "Alex Whittle",
+						"caution": {
+							"minute": "59"
+						}
+					},
+					{
+						"shirtNo": "10",
+						"name": "Yan Klukowski",
+						"substitution": {
+							"replacedBy": "Clovis Kamdjo",
+							"minute": "41"
+						}
+					},
+					{
+						"shirtNo": "8",
+						"name": "Simon Heslop"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Matt Fry",
+						"caution": {
+							"minute": "88"
+						}
+					},
+					{
+						"shirtNo": "9",
+						"name": "Richard Brodie",
+						"caution": {
+							"minute": "40"
+						}
+					},
+					{
+						"shirtNo": "12",
+						"name": "Aidan Connolly"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Ben Clappison"
+					},
+					{
+						"shirtNo": "23",
+						"name": "Matt Dixon",
+						"substitution": {
+							"replacedBy": "Scott Fenwick",
+							"minute": "75"
+						}
+					},
+					{
+						"shirtNo": "27",
+						"name": "Jake Wright"
+					},
+					{
+						"shirtNo": "13",
+						"name": "Luke Simpson"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Clovis Kamdjo"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Jack Higgins"
+					},
+					{
+						"shirtNo": "21",
+						"name": "Scott Fenwick"
+					}
+				]
+			}
+		],
+		"attendance": "4005",
+		"venue": "Racecourse Ground"
+	}
+}
+

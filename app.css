@@ -97,10 +97,36 @@ margin-left:8%;
    text-align:left;
  }
 
+.football-goaltext{
+   text-align:left;
+   margin-left:20px;
+ }
+
 .football-cell{
     margin-left:10px;
     margin-right:10px;
     padding-left:15px;
     padding-right:15px;
     font-size:small;
+}
+
+.football-table{
+    background-color:darkblue;
+    color:white;
+}
+
+.football-text-red{
+    color:darkblue;
+}
+
+.football-text-bold{
+    font-weight:bold;
+}
+
+.football-player{
+    color:yellow !important;
+}
+
+.football-sub{
+    color:lawngreen !important;
 }

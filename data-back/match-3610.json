@@ -1,0 +1,197 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Tuesday 9th August 2016",
+		"time": "19:45:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "114",
+				"name": "York City",
+				"halfTimeScore": "0",
+				"score": "1",
+				"goals": [
+					{
+						"goal": "Matt Fry (57')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Scott Flinders"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Shaun Rooney"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Alex Whittle"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Simon Heslop"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Jack Higgins"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Clovis Kamdjo"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Matt Fry",
+						"substitution": {
+							"replacedBy": "Joshua Robinson",
+							"minute": "84"
+						}
+					},
+					{
+						"shirtNo": "10",
+						"name": "Yan Klukowski",
+						"substitution": {
+							"replacedBy": "Daniel Nti",
+							"minute": "60"
+						}
+					},
+					{
+						"shirtNo": "12",
+						"name": "Aidan Connolly"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Ben Clappison"
+					},
+					{
+						"shirtNo": "21",
+						"name": "Scott Fenwick",
+						"substitution": {
+							"replacedBy": "Richard Brodie",
+							"minute": "82"
+						},
+						"caution": {
+							"minute": "59"
+						}
+					},
+					{
+						"shirtNo": "13",
+						"name": "Luke Simpson"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Daniel Nti"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Richard Brodie"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Joshua Robinson"
+					},
+					{
+						"shirtNo": "23",
+						"name": "Matt Dixon"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "80",
+				"name": "Macclesfield Town",
+				"halfTimeScore": "0",
+				"score": "0",
+				"players": [
+					{
+						"shirtNo": "13",
+						"name": "Craig Ross"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Andy Halls",
+						"caution": {
+							"minute": "69"
+						}
+					},
+					{
+						"shirtNo": "5",
+						"name": "George Pilkington",
+						"substitution": {
+							"replacedBy": "Neill Byrne",
+							"minute": "46"
+						}
+					},
+					{
+						"shirtNo": "10",
+						"name": "Jack Sampson"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Jack Mackreth"
+					},
+					{
+						"shirtNo": "6",
+						"name": "John McCombe",
+						"caution": {
+							"minute": "56"
+						}
+					},
+					{
+						"shirtNo": "9",
+						"name": "Chris Holroyd"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Danny Rowe"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Oliver Norburn",
+						"substitution": {
+							"replacedBy": "Kingsley James",
+							"minute": "60"
+						}
+					},
+					{
+						"shirtNo": "26",
+						"name": "Chris Sutherland"
+					},
+					{
+						"shirtNo": "23",
+						"name": "Danny Whitaker",
+						"substitution": {
+							"replacedBy": "Paul Lewis",
+							"minute": "77"
+						}
+					},
+					{
+						"shirtNo": "1",
+						"name": "Ritchie Branagan"
+					},
+					{
+						"shirtNo": "3",
+						"name": "David Fitzpatrick"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Neill Byrne"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Paul Lewis"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Kingsley James"
+					}
+				]
+			}
+		],
+		"attendance": "2468",
+		"venue": "Bootham Crescent"
+	}
+}
+

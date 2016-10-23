@@ -3,19 +3,191 @@
 		"competition": "National League",
 		"date": "Saturday 22nd October 2016",
 		"time": "15:00:00",
-		"status": "Kick off 3pm",
+		"status": "Full Time",
 		"teams": [
 			{
 				"side": "home",
 				"no": "100",
-				"name": "Dagenham & Redbridge"
+				"name": "Dagenham & Redbridge",
+				"halfTimeScore": "1",
+				"score": "1",
+				"goals": [
+					{
+						"goal": "Fejiri Okenabirhie (18')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Elliot Justham"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Joe Widdowson"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Scott Doe"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Jordan Maguire-Drew",
+						"substitution": {
+							"replacedBy": "Shomari Barnwell",
+							"minute": "90"
+						}
+					},
+					{
+						"shirtNo": "6",
+						"name": "Matt Robinson"
+					},
+					{
+						"shirtNo": "25",
+						"name": "Corey Whitely",
+						"caution": {
+							"minute": "51"
+						}
+					},
+					{
+						"shirtNo": "8",
+						"name": "Frankie Raymond",
+						"caution": {
+							"minute": "63"
+						}
+					},
+					{
+						"shirtNo": "9",
+						"name": "Craig Robson",
+						"substitution": {
+							"replacedBy": "Joshua Staunton",
+							"minute": "67"
+						}
+					},
+					{
+						"shirtNo": "12",
+						"name": "Oliver Hawkins"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Andre Boucaud"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Fejiri Okenabirhie",
+						"substitution": {
+							"replacedBy": "Luke Howell",
+							"minute": "33"
+						}
+					},
+					{
+						"shirtNo": "30",
+						"name": "Mark Cousins"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Luke Howell"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Tyrique Hyde"
+					},
+					{
+						"shirtNo": "22",
+						"name": "Shomari Barnwell"
+					},
+					{
+						"shirtNo": "32",
+						"name": "Joshua Staunton"
+					}
+				]
 			},
 			{
 				"side": "away",
 				"no": "80",
-				"name": "Macclesfield Town"
+				"name": "Macclesfield Town",
+				"halfTimeScore": "0",
+				"score": "1",
+				"goals": [
+					{
+						"goal": "Chris Holroyd (90')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "13",
+						"name": "Craig Ross"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Andy Halls"
+					},
+					{
+						"shirtNo": "5",
+						"name": "George Pilkington"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Paul Lewis",
+						"caution": {
+							"minute": "28"
+						}
+					},
+					{
+						"shirtNo": "3",
+						"name": "David Fitzpatrick"
+					},
+					{
+						"shirtNo": "6",
+						"name": "John McCombe"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Jack Mackreth"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Kingsley James"
+					},
+					{
+						"shirtNo": "23",
+						"name": "Danny Whitaker",
+						"substitution": {
+							"replacedBy": "Chris Sutherland",
+							"minute": "73"
+						}
+					},
+					{
+						"shirtNo": "9",
+						"name": "Chris Holroyd"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Jack Sampson"
+					},
+					{
+						"shirtNo": "1",
+						"name": "Ritchie Branagan"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Neill Byrne"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Mitch Hancox"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Chris Sutherland"
+					},
+					{
+						"shirtNo": "18",
+						"name": "John Roberts"
+					}
+				]
 			}
-		]
+		],
+		"venue": "Victoria Road"
 	}
 }
 

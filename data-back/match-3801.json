@@ -1,0 +1,22 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Saturday 29th October 2016",
+		"time": "15:00:00",
+		"status": "Kick off 3pm",
+		"teams": [
+			{
+				"side": "home",
+				"no": "403",
+				"name": "Maidstone United"
+			},
+			{
+				"side": "away",
+				"no": "80",
+				"name": "Macclesfield Town"
+			}
+		],
+		"venue": "The Gallagher Stadium"
+	}
+}
+

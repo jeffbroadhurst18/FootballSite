@@ -3,19 +3,198 @@
 		"competition": "National League",
 		"date": "Saturday 22nd October 2016",
 		"time": "15:00:00",
-		"status": "Kick off 3pm",
+		"status": "Full Time",
 		"teams": [
 			{
 				"side": "home",
 				"no": "68",
-				"name": "Wrexham"
+				"name": "Wrexham",
+				"halfTimeScore": "1",
+				"score": "2",
+				"goals": [
+					{
+						"goal": "Shaun Harrad (44')"
+					},
+					{
+						"goal": "Gerry McDonagh (80')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Shwan Jalal"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Hamza Bencherif"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Curtis Tilt"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Rob Evans",
+						"substitution": {
+							"replacedBy": "Callum Powell",
+							"minute": "67"
+						}
+					},
+					{
+						"shirtNo": "12",
+						"name": "Kai Edwards"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Anthony Barry",
+						"substitution": {
+							"replacedBy": "John Rooney",
+							"minute": "55"
+						}
+					},
+					{
+						"shirtNo": "13",
+						"name": "Mark Carrington"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Jordan Evans"
+					},
+					{
+						"shirtNo": "18",
+						"name": "Shaun Harrad"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Gerry McDonagh"
+					},
+					{
+						"shirtNo": "29",
+						"name": "Tyler Harvey",
+						"substitution": {
+							"replacedBy": "Leo Smith",
+							"minute": "60"
+						},
+						"caution": {
+							"minute": "30"
+						}
+					},
+					{
+						"shirtNo": "24",
+						"name": "Chris Dunn"
+					},
+					{
+						"shirtNo": "10",
+						"name": "John Rooney"
+					},
+					{
+						"shirtNo": "10",
+						"name": "John Rooney"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Callum Powell"
+					},
+					{
+						"shirtNo": "21",
+						"name": "Leo Smith"
+					}
+				]
 			},
 			{
 				"side": "away",
 				"no": "251",
-				"name": "Bromley"
+				"name": "Bromley",
+				"halfTimeScore": "0",
+				"score": "1",
+				"goals": [
+					{
+						"goal": "Blair Turgott (56')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Alan Julian"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Daniel Johnson"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Rob Swaine"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Adam Cunnington"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Dave Martin",
+						"caution": {
+							"minute": "31"
+						}
+					},
+					{
+						"shirtNo": "6",
+						"name": "Jack Holland"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Lee Minshull",
+						"substitution": {
+							"replacedBy": "Reece Prestedge",
+							"minute": "83"
+						}
+					},
+					{
+						"shirtNo": "13",
+						"name": "Joe Anderson"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Jordan Higgs"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Blair Turgott",
+						"caution": {
+							"minute": "33"
+						}
+					},
+					{
+						"shirtNo": "2",
+						"name": "Joe Howe",
+						"substitution": {
+							"replacedBy": "Tobi Sho-Silva",
+							"minute": "64"
+						}
+					},
+					{
+						"shirtNo": "12",
+						"name": "Connor Dymond"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Reece Prestedge"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Reece Prestedge"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Tobi Sho-Silva"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Tobi Sho-Silva"
+					}
+				]
 			}
-		]
+		],
+		"venue": "Racecourse Ground"
 	}
 }
 

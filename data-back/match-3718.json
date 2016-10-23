@@ -1,0 +1,183 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Saturday 17th September 2016",
+		"time": "15:00:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "114",
+				"name": "York City",
+				"halfTimeScore": "0",
+				"score": "0",
+				"players": [
+					{
+						"shirtNo": "28",
+						"name": "Kyle Letheren"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Ben Clappison"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Matt Fry"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Aidan Connolly",
+						"substitution": {
+							"replacedBy": "Scott Fenwick",
+							"minute": "63"
+						}
+					},
+					{
+						"shirtNo": "3",
+						"name": "Alex Whittle"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Jack Higgins",
+						"caution": {
+							"minute": "71"
+						}
+					},
+					{
+						"shirtNo": "7",
+						"name": "Daniel Nti",
+						"substitution": {
+							"replacedBy": "Justin Johnson",
+							"minute": "53"
+						}
+					},
+					{
+						"shirtNo": "8",
+						"name": "Simon Heslop"
+					},
+					{
+						"shirtNo": "23",
+						"name": "Matt Dixon"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Kaine Felix"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Richard Brodie"
+					},
+					{
+						"shirtNo": "13",
+						"name": "Luke Simpson"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Clovis Kamdjo"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Joshua Robinson"
+					},
+					{
+						"shirtNo": "21",
+						"name": "Scott Fenwick"
+					},
+					{
+						"shirtNo": "22",
+						"name": "Justin Johnson"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "229",
+				"name": "Dover Athletic",
+				"halfTimeScore": "1",
+				"score": "1",
+				"goals": [
+					{
+						"goal": "Ricky Miller (24')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "18",
+						"name": "Steve Arnold"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Sam Magri"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Aswad Thomas"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Jim Stevenson"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Tyrone Sterling"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Jamie Grimes"
+					},
+					{
+						"shirtNo": "21",
+						"name": "Sammy Moore",
+						"substitution": {
+							"replacedBy": "Chris Kinnear",
+							"minute": "86"
+						}
+					},
+					{
+						"shirtNo": "23",
+						"name": "Jack Parkinson"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Ricky Miller"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Ricky Modeste",
+						"substitution": {
+							"replacedBy": "Loui Fazackerley",
+							"minute": "88"
+						}
+					},
+					{
+						"shirtNo": "25",
+						"name": "Ross Lafayette"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Chris Kinnear"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Loui Fazackerley"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Jahmal Howlett-Mundle"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Moses Ademola"
+					},
+					{
+						"shirtNo": "19",
+						"name": "Ira Jackson Jr"
+					}
+				]
+			}
+		],
+		"attendance": "2137",
+		"venue": "Bootham Crescent"
+	}
+}
+

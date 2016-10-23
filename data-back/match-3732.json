@@ -1,0 +1,158 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Saturday 1st October 2016",
+		"time": "15:00:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "1004",
+				"name": "Chester",
+				"halfTimeScore": "0",
+				"score": "5",
+				"players": [
+					{
+						"shirtNo": "13",
+						"name": "Liam Roberts"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Craig Mahon"
+					},
+					{
+						"shirtNo": "9",
+						"name": "James Alabi"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Kane Richards"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Tom Shaw"
+					},
+					{
+						"shirtNo": "21",
+						"name": "Ryan Lloyd"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Elliott Durrell"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Sam Hughes"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Theo Vassell"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Ryan Astles"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Johnny Hunt"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Evan Horwood"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Luke George"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Jordan Chapell"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Wade Joyce"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Oluwaseun Akintunde"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "229",
+				"name": "Dover Athletic",
+				"halfTimeScore": "0",
+				"score": "0",
+				"players": [
+					{
+						"shirtNo": "18",
+						"name": "Steve Arnold"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Moses Ademola"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Ricky Miller"
+					},
+					{
+						"shirtNo": "25",
+						"name": "Ross Lafayette"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Jim Stevenson"
+					},
+					{
+						"shirtNo": "21",
+						"name": "Sammy Moore"
+					},
+					{
+						"shirtNo": "23",
+						"name": "Jack Parkinson"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Jamie Grimes"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Sam Magri"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Tyrone Sterling"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Aswad Thomas"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Chris Kinnear"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Ayo Obileye"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Mitch Pinnock"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Loui Fazackerley"
+					},
+					{
+						"shirtNo": "19",
+						"name": "Ira Jackson Jr"
+					}
+				]
+			}
+		],
+		"attendance": "1686"
+	}
+}
+

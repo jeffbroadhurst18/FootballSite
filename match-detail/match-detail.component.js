@@ -19,22 +19,27 @@ function MatchDetailController($routeParams, matchservice) {
     {
         self.results = response;
 
-        populateSubs(0);
-        populateSubs(1);
+        self = populateSubs(0,self);
+        self = populateSubs(1,self);
     }
 
     getMatch($routeParams.matchId);
     
 }
 
-function populateSubs(id)
+function populateSubs(id,self)
 {
     for (var i = 0; i < self.results.match.teams[id].players.length; i++) {
-        if (self.results.match.teams[1].players[id].substitution == null) {
-            self.results.match.teams[1].players[id].substitution = { replacedBy: " ", minute: " " };
+        self.results.match.teams[id].players[i].playerType =  i < 11 ? "football-player" : "football-sub" ;
+        if (self.results.match.teams[id].players[i].substitution == null) {
+            self.results.match.teams[id].players[i].substitution = { replacedBy: " ", minute: " " };
         }
-        if (self.results.match.teams[1].players[id].caution == null) {
-            self.results.match.teams[1].players[id].caution = { minute: " " };
+        if (self.results.match.teams[id].players[i].caution == null) {
+            self.results.match.teams[id].players[i].caution = { minute: " " };
+        }
+        if (self.results.match.teams[id].players[i].sendingOff == null) {
+            self.results.match.teams[id].players[i].sendingOff = { minute: " " };
         }
     }
+    return self;
 }

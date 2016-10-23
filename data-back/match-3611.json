@@ -1,0 +1,197 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Saturday 13th August 2016",
+		"time": "15:00:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "94",
+				"name": "Aldershot Town",
+				"halfTimeScore": "1",
+				"score": "2",
+				"goals": [
+					{
+						"goal": "Shamir Fenelon (3')"
+					},
+					{
+						"goal": "Scott Rendell (58')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "25",
+						"name": "Mark Smith"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Nick Arnold"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Will Evans"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Liam Bellamy"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Cheye Alexander"
+					},
+					{
+						"shirtNo": "22",
+						"name": "Callum Reynolds"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Jake Gallagher"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Shamir Fenelon",
+						"substitution": {
+							"replacedBy": "James Kellerman",
+							"minute": "28"
+						}
+					},
+					{
+						"shirtNo": "9",
+						"name": "Scott Rendell",
+						"substitution": {
+							"replacedBy": "Josh Wakefield",
+							"minute": "86"
+						}
+					},
+					{
+						"shirtNo": "10",
+						"name": "Matt McClure"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Bernard Mensah",
+						"substitution": {
+							"replacedBy": "Iffy Allen",
+							"minute": "78"
+						}
+					},
+					{
+						"shirtNo": "3",
+						"name": "Anthony Straker"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Jack Saville"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Iffy Allen"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Josh Wakefield"
+					},
+					{
+						"shirtNo": "17",
+						"name": "James Kellerman"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "68",
+				"name": "Wrexham",
+				"halfTimeScore": "0",
+				"score": "0",
+				"players": [
+					{
+						"shirtNo": "24",
+						"name": "Chris Dunn"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Hamza Bencherif"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Martin Riley"
+					},
+					{
+						"shirtNo": "10",
+						"name": "John Rooney",
+						"caution": {
+							"minute": "85"
+						}
+					},
+					{
+						"shirtNo": "11",
+						"name": "Sean Newton"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Jordan Evans",
+						"substitution": {
+							"replacedBy": "Callum Powell",
+							"minute": "46"
+						}
+					},
+					{
+						"shirtNo": "7",
+						"name": "Anthony Barry",
+						"substitution": {
+							"replacedBy": "Michael Bakare",
+							"minute": "46"
+						}
+					},
+					{
+						"shirtNo": "13",
+						"name": "Mark Carrington"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Paul Rutherford",
+						"caution": {
+							"minute": "82"
+						}
+					},
+					{
+						"shirtNo": "20",
+						"name": "Gerry McDonagh"
+					},
+					{
+						"shirtNo": "29",
+						"name": "Tyler Harvey",
+						"substitution": {
+							"replacedBy": "Nortei Nortey",
+							"minute": "46"
+						}
+					},
+					{
+						"shirtNo": "12",
+						"name": "Kai Edwards"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Callum Powell"
+					},
+					{
+						"shirtNo": "18",
+						"name": "Shaun Harrad"
+					},
+					{
+						"shirtNo": "23",
+						"name": "Nortei Nortey"
+					},
+					{
+						"shirtNo": "34",
+						"name": "Michael Bakare"
+					}
+				]
+			}
+		],
+		"attendance": "1907",
+		"venue": "The Ebb Stadium At The Recreation Ground"
+	}
+}
+

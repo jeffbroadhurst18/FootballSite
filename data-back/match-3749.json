@@ -1,0 +1,211 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Tuesday 4th October 2016",
+		"time": "19:45:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "293",
+				"name": "Guiseley",
+				"halfTimeScore": "4",
+				"score": "6",
+				"goals": [
+					{
+						"goal": "Jake Cassidy (18')"
+					},
+					{
+						"goal": "Alex Purver (21')"
+					},
+					{
+						"goal": "Alex Purver (23')"
+					},
+					{
+						"goal": "Jordan Preston (30')"
+					},
+					{
+						"goal": "Jermaine Hylton (55')"
+					},
+					{
+						"goal": "Rob Atkinson (82')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "26",
+						"name": "Jonathan Maxted"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Danny Lowe"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Connor Brown",
+						"substitution": {
+							"replacedBy": "Nicky Clee",
+							"minute": "71"
+						}
+					},
+					{
+						"shirtNo": "22",
+						"name": "Alex Purver"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Jake Lawlor"
+					},
+					{
+						"shirtNo": "25",
+						"name": "Rob Atkinson"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Will Hatfield"
+					},
+					{
+						"shirtNo": "29",
+						"name": "Jake Cassidy",
+						"substitution": {
+							"replacedBy": "Michael Rankine",
+							"minute": "76"
+						}
+					},
+					{
+						"shirtNo": "19",
+						"name": "Jordan Preston",
+						"substitution": {
+							"replacedBy": "Adam Boyes",
+							"minute": "81"
+						}
+					},
+					{
+						"shirtNo": "19",
+						"name": "Jordan Preston",
+						"caution": {
+							"minute": "26"
+						}
+					},
+					{
+						"shirtNo": "17",
+						"name": "Daniel Atkinson"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Adam Boyes"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Adam Boyes"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Michael Rankine"
+					},
+					{
+						"shirtNo": "18",
+						"name": "Nicky Clee"
+					},
+					{
+						"shirtNo": "18",
+						"name": "Nicky Clee"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "114",
+				"name": "York City",
+				"halfTimeScore": "1",
+				"score": "1",
+				"goals": [
+					{
+						"goal": "Matt Fry (11')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "28",
+						"name": "Kyle Letheren"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Clovis Kamdjo"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Shaun Rooney"
+					},
+					{
+						"shirtNo": "23",
+						"name": "Matt Dixon"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Ben Clappison",
+						"substitution": {
+							"replacedBy": "Yan Klukowski",
+							"minute": "46"
+						}
+					},
+					{
+						"shirtNo": "6",
+						"name": "Matt Fry"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Danny Galbraith"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Simon Heslop"
+					},
+					{
+						"shirtNo": "22",
+						"name": "Justin Johnson"
+					},
+					{
+						"shirtNo": "21",
+						"name": "Scott Fenwick",
+						"substitution": {
+							"replacedBy": "Kaine Felix",
+							"minute": "60"
+						}
+					},
+					{
+						"shirtNo": "13",
+						"name": "Luke Simpson",
+						"substitution": {
+							"replacedBy": "Fraser Murdoch",
+							"minute": "46"
+						}
+					},
+					{
+						"shirtNo": "10",
+						"name": "Yan Klukowski"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Yan Klukowski"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Kaine Felix"
+					},
+					{
+						"shirtNo": "24",
+						"name": "Franklyn Clarke"
+					},
+					{
+						"shirtNo": "29",
+						"name": "Fraser Murdoch"
+					}
+				]
+			}
+		],
+		"attendance": "1626",
+		"venue": "Nethermoor Park"
+	}
+}
+

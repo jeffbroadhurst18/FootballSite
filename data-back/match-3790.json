@@ -1,0 +1,21 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Tuesday 25th October 2016",
+		"time": "19:45:00",
+		"status": "Kick off 7.45pm",
+		"teams": [
+			{
+				"side": "home",
+				"no": "113",
+				"name": "Woking"
+			},
+			{
+				"side": "away",
+				"no": "226",
+				"name": "Braintree Town"
+			}
+		]
+	}
+}
+

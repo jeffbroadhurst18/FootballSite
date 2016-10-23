@@ -1,0 +1,179 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Saturday 13th August 2016",
+		"time": "15:00:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "293",
+				"name": "Guiseley",
+				"halfTimeScore": "0",
+				"score": "0",
+				"players": [
+					{
+						"shirtNo": "17",
+						"name": "Daniel Atkinson"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Javan Vidal"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Ashley Palmer"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Jake Lawlor"
+					},
+					{
+						"shirtNo": "23",
+						"name": "Danny East"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Marcus Williams"
+					},
+					{
+						"shirtNo": "25",
+						"name": "Rob Atkinson",
+						"substitution": {
+							"replacedBy": "Dave Syers",
+							"minute": "68"
+						}
+					},
+					{
+						"shirtNo": "7",
+						"name": "Adam Smith"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Will Hatfield"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Oli Johnson",
+						"substitution": {
+							"replacedBy": "Adam Boyes",
+							"minute": "60"
+						}
+					},
+					{
+						"shirtNo": "11",
+						"name": "Michael Rankine"
+					},
+					{
+						"shirtNo": "1",
+						"name": "Tim Deasy"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Adam Lockwood"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Adam Boyes"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Dave Syers"
+					},
+					{
+						"shirtNo": "19",
+						"name": "Jordan Preston"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "100",
+				"name": "Dagenham & Redbridge",
+				"halfTimeScore": "1",
+				"score": "2",
+				"goals": [
+					{
+						"goal": "Christian Assombalonga (6')"
+					},
+					{
+						"goal": "Oliver Hawkins (76')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Elliot Justham"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Curtley Williams"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Scott Doe"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Andre Boucaud"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Joe Widdowson"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Craig Robson"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Matt Robinson"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Luke Guttridge"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Fejiri Okenabirhie"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Christian Assombalonga",
+						"substitution": {
+							"replacedBy": "Jordan Maguire-Drew",
+							"minute": "87"
+						}
+					},
+					{
+						"shirtNo": "12",
+						"name": "Oliver Hawkins"
+					},
+					{
+						"shirtNo": "30",
+						"name": "Mark Cousins"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Frankie Raymond"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Paul Benson"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Jordan Maguire-Drew"
+					},
+					{
+						"shirtNo": "32",
+						"name": "Joshua Staunton"
+					}
+				]
+			}
+		],
+		"attendance": "680",
+		"venue": "Nethermoor Park"
+	}
+}
+

@@ -1,0 +1,195 @@
+{
+	"match": {
+		"competition": "National League",
+		"date": "Tuesday 9th August 2016",
+		"time": "19:45:00",
+		"status": "Full Time",
+		"teams": [
+			{
+				"side": "home",
+				"no": "1004",
+				"name": "Chester",
+				"halfTimeScore": "2",
+				"score": "3",
+				"goals": [
+					{
+						"goal": "Elliott Durrell (12')"
+					},
+					{
+						"goal": "Tom Shaw (24')"
+					},
+					{
+						"goal": "James Alabi (59')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "13",
+						"name": "Liam Roberts"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Johnny Hunt"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Theo Vassell"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Elliott Durrell",
+						"substitution": {
+							"replacedBy": "Jordan Chapell",
+							"minute": "72"
+						}
+					},
+					{
+						"shirtNo": "6",
+						"name": "Ryan Astles"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Blaine Hudson"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Evan Horwood",
+						"substitution": {
+							"replacedBy": "Craig Mahon",
+							"minute": "74"
+						},
+						"caution": {
+							"minute": "53"
+						}
+					},
+					{
+						"shirtNo": "4",
+						"name": "Luke George"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Tom Shaw"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Kane Richards"
+					},
+					{
+						"shirtNo": "9",
+						"name": "James Alabi",
+						"substitution": {
+							"replacedBy": "Matthew Waters",
+							"minute": "82"
+						}
+					},
+					{
+						"shirtNo": "1",
+						"name": "Jon Worsnop"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Craig Mahon"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Jordan Chapell"
+					},
+					{
+						"shirtNo": "19",
+						"name": "Matthew Waters"
+					},
+					{
+						"shirtNo": "20",
+						"name": "Oluwaseun Akintunde"
+					}
+				]
+			},
+			{
+				"side": "away",
+				"no": "100",
+				"name": "Dagenham & Redbridge",
+				"halfTimeScore": "0",
+				"score": "0",
+				"players": [
+					{
+						"shirtNo": "1",
+						"name": "Elliot Justham"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Curtley Williams"
+					},
+					{
+						"shirtNo": "33",
+						"name": "Joe Widdowson"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Luke Guttridge",
+						"caution": {
+							"minute": "54"
+						},
+						"sendingOff": {
+							"minute": "54"
+						}
+					},
+					{
+						"shirtNo": "5",
+						"name": "Craig Robson"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Scott Doe"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Matt Robinson"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Andre Boucaud"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Oliver Hawkins",
+						"substitution": {
+							"replacedBy": "Paul Benson",
+							"minute": "77"
+						}
+					},
+					{
+						"shirtNo": "15",
+						"name": "Jordan Maguire-Drew"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Fejiri Okenabirhie"
+					},
+					{
+						"shirtNo": "30",
+						"name": "Mark Cousins"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Frankie Raymond"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Christian Assombalonga"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Paul Benson"
+					},
+					{
+						"shirtNo": "32",
+						"name": "Joshua Staunton"
+					}
+				]
+			}
+		],
+		"attendance": "1841",
+		"venue": "Lookers Vauxhall Stadium"
+	}
+}
+

@@ -3,19 +3,199 @@
 		"competition": "National League",
 		"date": "Saturday 22nd October 2016",
 		"time": "15:00:00",
-		"status": "Kick off 3pm",
+		"status": "Full Time",
 		"teams": [
 			{
 				"side": "home",
 				"no": "114",
-				"name": "York City"
+				"name": "York City",
+				"halfTimeScore": "0",
+				"score": "1",
+				"goals": [
+					{
+						"goal": "Matt Fry (70')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "28",
+						"name": "Kyle Letheren"
+					},
+					{
+						"shirtNo": "3",
+						"name": "Alex Whittle"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Clovis Kamdjo"
+					},
+					{
+						"shirtNo": "8",
+						"name": "Simon Heslop",
+						"caution": {
+							"minute": "35"
+						}
+					},
+					{
+						"shirtNo": "6",
+						"name": "Matt Fry"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Jack Higgins"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Daniel Nti",
+						"caution": {
+							"minute": "13"
+						}
+					},
+					{
+						"shirtNo": "21",
+						"name": "Scott Fenwick",
+						"substitution": {
+							"replacedBy": "Richard Brodie",
+							"minute": "69"
+						},
+						"caution": {
+							"minute": "22"
+						}
+					},
+					{
+						"shirtNo": "24",
+						"name": "Franklyn Clarke",
+						"substitution": {
+							"replacedBy": "Danny Galbraith",
+							"minute": "64"
+						}
+					},
+					{
+						"shirtNo": "25",
+						"name": "Callum Rzonca",
+						"substitution": {
+							"replacedBy": "Yan Klukowski",
+							"minute": "78"
+						}
+					},
+					{
+						"shirtNo": "26",
+						"name": "Lanre Oyebanjo"
+					},
+					{
+						"shirtNo": "1",
+						"name": "Scott Flinders"
+					},
+					{
+						"shirtNo": "9",
+						"name": "Richard Brodie",
+						"caution": {
+							"minute": "88"
+						}
+					},
+					{
+						"shirtNo": "10",
+						"name": "Yan Klukowski"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Danny Galbraith",
+						"caution": {
+							"minute": "86"
+						}
+					},
+					{
+						"shirtNo": "14",
+						"name": "Ben Clappison"
+					}
+				]
 			},
 			{
 				"side": "away",
 				"no": "1004",
-				"name": "Chester"
+				"name": "Chester",
+				"halfTimeScore": "0",
+				"score": "1",
+				"goals": [
+					{
+						"goal": "Kane Richards (90')"
+					}
+				],
+				"players": [
+					{
+						"shirtNo": "13",
+						"name": "Liam Roberts"
+					},
+					{
+						"shirtNo": "4",
+						"name": "Luke George"
+					},
+					{
+						"shirtNo": "6",
+						"name": "Ryan Astles"
+					},
+					{
+						"shirtNo": "11",
+						"name": "Jordan Chapell",
+						"substitution": {
+							"replacedBy": "Kane Richards",
+							"minute": "66"
+						}
+					},
+					{
+						"shirtNo": "9",
+						"name": "James Alabi"
+					},
+					{
+						"shirtNo": "7",
+						"name": "Craig Mahon"
+					},
+					{
+						"shirtNo": "10",
+						"name": "Elliott Durrell"
+					},
+					{
+						"shirtNo": "12",
+						"name": "Sam Hughes"
+					},
+					{
+						"shirtNo": "16",
+						"name": "Johnny Hunt"
+					},
+					{
+						"shirtNo": "17",
+						"name": "Theo Vassell",
+						"caution": {
+							"minute": "86"
+						}
+					},
+					{
+						"shirtNo": "21",
+						"name": "Ryan Lloyd"
+					},
+					{
+						"shirtNo": "2",
+						"name": "Ross Killock"
+					},
+					{
+						"shirtNo": "5",
+						"name": "Blaine Hudson"
+					},
+					{
+						"shirtNo": "14",
+						"name": "Wade Joyce"
+					},
+					{
+						"shirtNo": "15",
+						"name": "Kane Richards",
+						"caution": {
+							"minute": "88"
+						}
+					}
+				]
 			}
-		]
+		],
+		"venue": "Bootham Crescent"
 	}
 }
 

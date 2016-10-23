@@ -20,26 +20,33 @@
             </div>
             <div class="row h4 h4-football">
                 <div class="col-md-1"></div>
-                <div class="col-md-8">{{$ctrl.results.match.date}} {{$ctrl.results.match.time}} </div>
+                <div class="col-md-8">{{$ctrl.results.match.date}} {{$ctrl.results.match.time}} at {{$ctrl.results.match.venue}}</div>
                 <div class="col-md-3"></div>
             </div>
             <div class="row football-spacer">
 
             </div>
             <div class="row football-spacer">
+                <div class="col-md-1"></div>
+                
+                <div class="col-md-5"><img ng-src="/data/pictures/pic-{{$ctrl.results.match.teams[0].no}}.jpg" title="{{$ctrl.results.match.teams[0].name}}" /></div>
+                <div class="col-md-4"><img ng-src="/data/pictures/pic-{{$ctrl.results.match.teams[1].no}}.jpg" title="{{$ctrl.results.match.teams[1].name}}" /></div>
                 <div class="col-md-2"></div>
-                <div class="col-md-4 football-goal">{{$ctrl.results.match.teams[0].name}}</div>
-                <div class="col-md-4 football-goal">{{$ctrl.results.match.teams[1].name}}</div>
+            </div>
+            <div class="row football-spacer">
+                <div class="col-md-1"></div>
+                <div class="col-md-5 football-goal football-text-red football-text-bold"><a href="#!/teams/{{$ctrl.results.match.teams[0].no}}">{{$ctrl.results.match.teams[0].name}}</a></div>
+                <div class="col-md-4 football-goal football-text-red football-text-bold"><a href="#!/teams/{{$ctrl.results.match.teams[1].no}}">{{$ctrl.results.match.teams[1].name}}</a></div>
                 <div class="col-md-2"></div>
             </div>
             <div class="row">
-                <div class="col-sm-2"></div>
-                <div class="col-sm-4 football-goal">
+                <div class="col-sm-1"></div>
+                <div class="col-sm-5 football-goaltext football-text-red ">
                     <div class="row" ng-repeat="g in $ctrl.results.match.teams[0].goals">
                         <div>{{g.goal}}</div>
                     </div>
                 </div>
-                <div class="col-sm-4 football-goal">
+                <div class="col-sm-4 football-goal football-text-red">
                     <div class="row" ng-repeat="g in $ctrl.results.match.teams[1].goals">
                         <div>{{g.goal}}</div>
                     </div>
@@ -51,38 +58,47 @@
             <div class="row">
                 <div class="col-sm-1"></div>
                 <div class="col-sm-5">
-                    <table>
-                       <tr>
-                           <th></th>
-                           <th></th>
-                           <th class="football-cell">Y</thclass="football-cell">
-                           <th class="football-cell">Sub.</th>
-                       </tr>
-                         <tr ng-repeat="p in $ctrl.results.match.teams[0].players">
-                            <td class="football-cell">{{p.shirtNo}}</td>
-                            <td class="football-cell">{{p.name}}</td>
+                    <table class="football-table table-bordered">
+                        <tr>
+                            <th></th>
+                            <th></th>
+                            <th ng-if="$ctrl.results.match.teams[0].players" class="football-cell"><img src="\data\pictures\yellowCard.jpg" title="Yellow Card" /></th>
+                            <th ng-if="$ctrl.results.match.teams[0].players" class="football-cell"><img src="\data\pictures\redCard.jpg" title="Red Card" /></th>
+                            <th ng-if="$ctrl.results.match.teams[0].players" class="football-cell">Sub.</th>
+                        </tr>
+                        <tr ng-repeat="p in $ctrl.results.match.teams[0].players">
+                            <td ng-if="p.playerType=='football-player'" class="football-cell football-player">{{p.shirtNo}}</td>
+                            <td ng-if="p.playerType=='football-sub'" class="football-cell football-sub">{{p.shirtNo}}</td>
+                            <td ng-if="p.playerType=='football-player'" class="football-cell football-player">{{p.name}}</td>
+                            <td ng-if="p.playerType=='football-sub'" class="football-cell football-sub">{{p.name}}</td>
                             <td class="football-cell">{{p.caution.minute}}</td>
+                            <td class="football-cell">{{p.sendingOff.minute}}</td>
                             <td class="football-cell">{{p.substitution.replacedBy}} {{p.substitution.minute}}</td>
                         </tr>
                     </table>
                 </div>
                 <div class="col-sm-6">
-                    <table>
+                    <table class="football-table table-bordered">
                         <tr>
                             <th></th>
                             <th></th>
-                            <th class="football-cell">Y</th>
-                            <th class="football-cell">Sub.</th>
+                            <th ng-if="$ctrl.results.match.teams[1].players" class="football-cell"><img src="\data\pictures\yellowCard.jpg" title="Yellow Card" /></th>
+                            <th ng-if="$ctrl.results.match.teams[1].players" class="football-cell"><img src="\data\pictures\redCard.jpg" title="Red Card" /></th>
+                            <th ng-if="$ctrl.results.match.teams[1].players" class="football-cell">Sub.</th>
                         </tr>
                         <tr ng-repeat="p in $ctrl.results.match.teams[1].players">
-                            <td class="football-cell">{{p.shirtNo}}</td>
-                            <td class="football-cell">{{p.name}}</td>
+                            <td ng-if="p.playerType=='football-player'" class="football-cell football-player">{{p.shirtNo}}</td>
+                            <td ng-if="p.playerType=='football-sub'" class="football-cell football-sub">{{p.shirtNo}}</td>
+                            <td ng-if="p.playerType=='football-player'" class="football-cell football-player">{{p.name}}</td>
+                            <td ng-if="p.playerType=='football-sub'" class="football-cell football-sub">{{p.name}}</td>
                             <td class="football-cell">{{p.caution.minute}}</td>
+                            <td class="football-cell">{{p.sendingOff.minute}}</td>
                             <td class="football-cell">{{p.substitution.replacedBy}} {{p.substitution.minute}}</td>
                         </tr>
                     </table>
+                    <div class="row football-spacer">
+                    </div>
                 </div>
-
             </div>
         </div>
     </div>
